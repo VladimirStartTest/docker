@@ -1,1 +1,1 @@
-![image](new.png)
+![image](https://github.com/VladimirStartTest/FirstProjectJava/blob/main/new.png)
